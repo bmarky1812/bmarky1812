@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 IM BRandi Hinojosa
 
 <!--
 **bmarky1812/bmarky1812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
